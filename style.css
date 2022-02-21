@@ -3,10 +3,9 @@
   color: white;
   border: 1px solid white;
   text-align: center;
-}
-.bg-blu {
   background-color: blue;
 }
+
 .nested {
   background-color: green;
   height: 30px;
@@ -21,6 +20,7 @@
   align-items: center;
   justify-content: center;
   padding: 10px;
+  margin-bottom: 10px;
 }
 
 h1 {
